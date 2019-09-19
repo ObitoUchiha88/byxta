@@ -1,0 +1,2 @@
+worker: python skelet.py
+
