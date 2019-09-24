@@ -1,2 +1,2 @@
-worker: python skelet.py
+worker: python str_bot.py
 
